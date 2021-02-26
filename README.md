@@ -1,8 +1,13 @@
 # books
 
+## About
+```
+A simple Vue app to add and remove books to an inventory.
+```
+
 ## Project setup
 ```
-npm install
+npm i -g @vue/cli @vue/cli-service-global
 ```
 
 ### Compiles and hot-reloads for development
@@ -15,10 +20,3 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
